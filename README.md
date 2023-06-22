@@ -13,7 +13,7 @@ Here are some of the projects I've worked on:
 - [Project 1](https://github.com/FM22110007494/finalCapstone): Natutal Language Processing and Variables and Control
 Structures
 
-- [Project 2](https://www.hyperiondev.com/portfolio/118579/): A variety of project that I worked during my bootcamp course, from easy to more complex tasks.
+- [Project 2](https://www.hyperiondev.com/portfolio/118579/): A variety of project I have worked during my bootcamp course, from easy to more complex tasks.
 
 Feel free to explore my repositories to find more exciting projects!
 
